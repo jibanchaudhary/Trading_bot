@@ -1,2 +1,7 @@
 venv
+documents
+*.csv
+chart_data
+multi_stock_tuning
+
 
