@@ -3,5 +3,6 @@ documents
 *.csv
 chart_data
 multi_stock_tuning
+.DS_Store
 
 
